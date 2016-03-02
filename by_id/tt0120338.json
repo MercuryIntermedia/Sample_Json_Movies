@@ -1,0 +1,32 @@
+{
+    "imdbRating": 7.7,
+    "imdbVotes": 759844,
+    "imdbId": "tt0120338",
+    "title": "Titanic",
+    "year": 1997,
+    "rated": "PG-13",
+    "released": "19 Dec 1997",
+    "runtime": "194 min",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "director": "James Cameron",
+    "writer": "James Cameron",
+    "actors": [
+        ""
+    ],
+    "plot": "A seventeen-year-old aristocrat falls in love with a kind, but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "language": [
+        "English",
+        "French",
+        "German",
+        "Swedish",
+        "Italian",
+        "Russian"
+    ],
+    "country": "USA",
+    "awards": "Won 11 Oscars. Another 107 wins & 73 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMjExNzM0NDM0N15BMl5BanBnXkFtZTcwMzkxOTUwNw@@._V1_SX300.jpg",
+    "metascore": "74"
+}

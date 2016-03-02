@@ -1,0 +1,32 @@
+{
+    "imdbRating": 8.5,
+    "imdbVotes": 632140,
+    "imdbId": "tt0082971",
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "rated": "PG",
+    "released": "12 Jun 1981",
+    "runtime": "115 min",
+    "genre": [
+        "Action",
+        "Adventure"
+    ],
+    "director": "Steven Spielberg",
+    "writer": "Lawrence Kasdan (screenplay), George Lucas (story), Philip Kaufman (story)",
+    "actors": [
+        ""
+    ],
+    "plot": "Archaeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the Nazis.",
+    "language": [
+        "English",
+        "German",
+        "Hebrew",
+        "Spanish",
+        "Arabic",
+        "Nepali"
+    ],
+    "country": "USA",
+    "awards": "Won 4 Oscars. Another 28 wins & 23 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg",
+    "metascore": "90"
+}

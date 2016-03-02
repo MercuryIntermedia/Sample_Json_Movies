@@ -1,0 +1,31 @@
+{
+    "imdbRating": 8.4,
+    "imdbVotes": 705251,
+    "imdbId": "tt0112573",
+    "title": "Braveheart",
+    "year": 1995,
+    "rated": "R",
+    "released": "24 May 1995",
+    "runtime": "178 min",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "director": "Mel Gibson",
+    "writer": "Randall Wallace",
+    "actors": [
+        ""
+    ],
+    "plot": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
+    "language": [
+        "English",
+        "French",
+        "Latin",
+        "Scottish Gaelic"
+    ],
+    "country": "USA",
+    "awards": "Won 5 Oscars. Another 25 wins & 28 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BNjA4ODYxMDU3Nl5BMl5BanBnXkFtZTcwMzkzMTk3OA@@._V1_SX300.jpg",
+    "metascore": "68"
+}

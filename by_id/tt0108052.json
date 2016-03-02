@@ -1,0 +1,31 @@
+{
+    "imdbRating": 8.9,
+    "imdbVotes": 824629,
+    "imdbId": "tt0108052",
+    "title": "Schindler's List",
+    "year": 1993,
+    "rated": "R",
+    "released": "04 Feb 1994",
+    "runtime": "195 min",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "director": "Steven Spielberg",
+    "writer": "Thomas Keneally (book), Steven Zaillian (screenplay)",
+    "actors": [
+        ""
+    ],
+    "plot": "In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "language": [
+        "English",
+        "Hebrew",
+        "German",
+        "Polish"
+    ],
+    "country": "USA",
+    "awards": "Won 7 Oscars. Another 69 wins & 32 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMzMwMTM4MDU2N15BMl5BanBnXkFtZTgwMzQ0MjMxMDE@._V1_SX300.jpg",
+    "metascore": "93"
+}

@@ -1,0 +1,31 @@
+{
+    "imdbRating": 8.6,
+    "imdbVotes": 838535,
+    "imdbId": "tt0120815",
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "rated": "R",
+    "released": "24 Jul 1998",
+    "runtime": "169 min",
+    "genre": [
+        "Action",
+        "Drama",
+        "War"
+    ],
+    "director": "Steven Spielberg",
+    "writer": "Robert Rodat",
+    "actors": [
+        ""
+    ],
+    "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "language": [
+        "English",
+        "French",
+        "German",
+        "Czech"
+    ],
+    "country": "USA",
+    "awards": "Won 5 Oscars. Another 72 wins & 74 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BNjczODkxNTAxN15BMl5BanBnXkFtZTcwMTcwNjUxMw@@._V1_SX300.jpg",
+    "metascore": "90"
+}

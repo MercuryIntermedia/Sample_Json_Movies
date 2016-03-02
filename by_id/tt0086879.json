@@ -1,0 +1,31 @@
+{
+    "imdbRating": 8.3,
+    "imdbVotes": 258786,
+    "imdbId": "tt0086879",
+    "title": "Amadeus",
+    "year": 1984,
+    "rated": "R",
+    "released": "05 Apr 1985",
+    "runtime": "160 min",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Music"
+    ],
+    "director": "Milos Forman",
+    "writer": "Peter Shaffer (original stage play), Peter Shaffer (original screenplay)",
+    "actors": [
+        ""
+    ],
+    "plot": "The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.",
+    "language": [
+        "English",
+        "Italian",
+        "Latin",
+        "German"
+    ],
+    "country": "USA, France",
+    "awards": "Won 8 Oscars. Another 33 wins & 14 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2._V1_SX300.jpg",
+    "metascore": "93"
+}

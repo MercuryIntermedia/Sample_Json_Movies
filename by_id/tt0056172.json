@@ -1,0 +1,30 @@
+{
+    "imdbRating": 8.4,
+    "imdbVotes": 183841,
+    "imdbId": "tt0056172",
+    "title": "Lawrence of Arabia",
+    "year": 1962,
+    "rated": "PG",
+    "released": "11 Dec 1962",
+    "runtime": "216 min",
+    "genre": [
+        "Adventure",
+        "Biography",
+        "Drama"
+    ],
+    "director": "David Lean",
+    "writer": "T.E. Lawrence (writings), Robert Bolt (screenplay), Michael Wilson (screenplay)",
+    "actors": [
+        ""
+    ],
+    "plot": "Follows a brilliant, flamboyant and controversial British military figure and his conflicted loyalties during wartime service.",
+    "language": [
+        "English",
+        "Arabic",
+        "Turkish"
+    ],
+    "country": "UK",
+    "awards": "Won 7 Oscars. Another 22 wins & 15 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMzAwMjM4NzA2OV5BMl5BanBnXkFtZTcwMDI0NzAwMQ@@._V1_SX300.jpg",
+    "metascore": "100"
+}

@@ -1,0 +1,28 @@
+{
+    "imdbRating": 8.3,
+    "imdbVotes": 406264,
+    "imdbId": "tt0062622",
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "rated": "G",
+    "released": "15 May 1968",
+    "runtime": "149 min",
+    "genre": [
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "director": "Stanley Kubrick",
+    "writer": "Stanley Kubrick (screenplay), Arthur C. Clarke (screenplay)",
+    "actors": [
+        ""
+    ],
+    "plot": "Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+    "language": [
+        "English",
+        "Russian"
+    ],
+    "country": "USA, UK",
+    "awards": "Won 1 Oscar. Another 13 wins & 7 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BNDYyMDgxNDQ5Nl5BMl5BanBnXkFtZTcwMjc1ODg3OA@@._V1_SX300.jpg",
+    "metascore": "86"
+}

@@ -1,0 +1,28 @@
+{
+    "imdbRating": 8.7,
+    "imdbVotes": 866538,
+    "imdbId": "tt0076759",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "rated": "PG",
+    "released": "25 May 1977",
+    "runtime": "121 min",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "director": "George Lucas",
+    "writer": "George Lucas",
+    "actors": [
+        ""
+    ],
+    "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+    "language": [
+        "English"
+    ],
+    "country": "USA",
+    "awards": "Won 6 Oscars. Another 38 wins & 28 nominations.",
+    "poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX300.jpg",
+    "metascore": "92"
+}
