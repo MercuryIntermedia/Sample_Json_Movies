@@ -1,7 +1,22 @@
-Build a simple app that lists the top 100 movies in a list with more
-details provide on clicking a movie. Use your choice of architecture and
-libraries.
+Project description
+-------
 
+Build a simple Android app, following Java and Android best practices, that displays movie information. Use your choice of architecture and libraries. The goal being to demonstrate a level of Android competency and code quality. 
+
+No consideration will be given to the aestetics of the app since this is to be used as a sample of code, and not a "designed" product.
+
+App requirements
+-------
+
+0. Display a list of movies items that scroll vertically. Each item should display the movie's poster art and all available summary info included in the JSON.
+0. The user will be able to tap a movie from the list to show detailed information about that movie on a second screen. The detail information should include all detail information included in the JSON.
+0. Images should be cached to reduce load on the server
+0. The app must support landscape and portrait orientations
+0. The app must handle any data or connectivity errors gracefully by displaying an error message to the user
+0. The minimum Android OS supported is 4.1
+
+Data sources
+-------
 
 The data should be pulled from the raw json files in this repo using
 the most recent commit. Use the following pattern for the base API url:
@@ -12,8 +27,6 @@ this repo: [baseUrl]/top_movies.json
 
 For example:
 https://raw.githubusercontent.com/MercuryIntermedia/Sample_Json_Movies/35cccb4bb96bc00575f34ab49bb0f56bf7c77f0e/top_movies.json
-
-The list should show the poster, summary info and when clicking on the row should open a details screen.
 
 The details for each movie are available under that base using the patterns: [baseUrl]/by_id/[imdbId].json
 
