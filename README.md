@@ -1,7 +1,7 @@
 Project description
 -------
 
-Build a simple Android app, following Java and Android best practices, that displays movie information. Use your choice of architecture and libraries. The goal being to demonstrate a level of Android competency and code quality. 
+Build a simple Android app, following Java and Android best practices, that displays movie information. Use your choice of architecture and libraries. The goal is to demonstrate a level of Android competency and code quality. 
 
 No consideration will be given to the aesthetics of the app since this is to be used as a sample of code, and not a "designed" product.
 
