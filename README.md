@@ -13,7 +13,7 @@ App requirements
 0. Images should be cached to reduce load on the server
 0. The app must support landscape and portrait orientations
 0. The app must handle any data or connectivity errors gracefully by displaying an error message to the user
-0. The minimum Android OS supported is 4.1
+0. The minimum Android OS supported is 4.4
 
 Data sources
 -------
