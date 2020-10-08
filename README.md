@@ -1,3 +1,6 @@
+***IMPORTANT***
+Please do not post your code publicly on github/bitbucket/etc. You don't want other developers taking credit for your work by submitting it as their own.
+
 Project description
 -------
 
