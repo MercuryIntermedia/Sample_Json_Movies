@@ -17,7 +17,7 @@ App requirements
 0. In the case of an image loading error (highly likely), display a red box instead of the image.
 0. The app must support landscape and portrait orientations
 0. The app must handle any data or connectivity errors gracefully by displaying an error message to the user
-0. The minimum Android OS supported is 4.4
+0. The minimum Android OS supported is 10
 
 Data sources
 -------
